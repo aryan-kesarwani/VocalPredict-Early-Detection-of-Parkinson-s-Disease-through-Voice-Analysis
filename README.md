@@ -1,7 +1,6 @@
 # VocalPredict: Early Parkinson's Disease Detection through Voice Analysis
 
-VocalPredict is a machine learning project aimed at the early detection of Parkinson's disease using voice analysis. The project leverages deep learning and supervised machine learning techniques to analyze vocal patterns and detect the disease in its early stages.
-
+VocalPredict is a machine learning project dedicated to early Parkinson's disease detection through voice analysis. Through meticulous comparison, we have identified and selected the best-performing model, achieving a final accuracy of 94%.
 
 ![parkinsons_ann_acc_v1](https://github.com/aryan-kesarwani/VocalPredict-Early-Detection-of-Parkinson-s-Disease-through-Voice-Analysis/assets/131564512/849883e1-492b-41c3-970e-3cd2229db939)
 
@@ -34,6 +33,6 @@ Parkinson's disease is a neurodegenerative disorder that affects millions of peo
 To get started with VocalPredict, clone the repository and install the required dependencies using pip:
 
 ```bash
-git clone https://github.com/your-username/VocalPredict.git
-cd VocalPredict
+git clone https://github.com/aryan-kesarwani/VocalPredict-Early-Detection-of-Parkinson-s-Disease-through-Voice-Analysis.git
+cd VocalPredict-Early-Detection-of-Parkinson-s-Disease-through-Voice-Analysis
 pip install -r requirements.txt
